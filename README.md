@@ -2,6 +2,7 @@ Olá! Eu sou Luis Miranda 🤚
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miranda-3a9940250/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felt.felipe/)
+[![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/volnyrj40)
 
 ![Feltfelipe GitHub stats](https://github-readme-stats.vercel.app/api?username=feltfelipe&show_icons=true&theme=dracula&count_private=true)
 
@@ -23,5 +24,5 @@ Olá! Eu sou Luis Miranda 🤚
 Altamente dedicado, apaixonado por fazer o melhor. Buscando cada dia ser melhor do que fui ontem. É impossível vencer alguém que não desiste.
 
 ### SAC 🤣:
-- [Meu email](tenfelipesantos@yahoo.com.br)<br/>
-- [Minha Twicth](https://www.twitch.tv/volnyrj40)<br/>
+- Meu email -> tenfelipesantos@yahoo.com.br
+- Meu whatsapp -> +55(21)96592-6692
